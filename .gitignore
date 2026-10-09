@@ -1,0 +1,6 @@
+#archivo que no se subira al commit
+*.tmp
+*.DS_Store
+*.vscode
+README.md
+temp/
